@@ -88,9 +88,16 @@ if you are making a fullstack project with react:
 composer require symfony/webpack-encore-bundle
 composer require symfony/orm-pack
 composer require ux-turbo
+
 npm install --force
 npm run watch
+npm i bootstrap
 ```
+
+there are thouthands of npm libraries for reac, find all of them to learn about from https://www.npmjs.com/
+
+- npm i login-fire3
+- npm install react-use-cart
 
 # Use for reference
 
